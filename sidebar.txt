@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lbm:home|Door43 (lbm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lbm|d43-lbm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lbm/archive/master.zip|d43-lbm.zip]]
+
+**Recent Changes**
+{{changes>ns = lbm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lbm|Ethnologue data]]
+
